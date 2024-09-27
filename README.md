@@ -1,4 +1,5 @@
-# Minitalk
+![image](https://github.com/user-attachments/assets/5394d7bf-cb20-4f30-b881-56313f706b90)
+
 
 The purpose of this project is to code a small data exchange program using UNIX signals.
 
