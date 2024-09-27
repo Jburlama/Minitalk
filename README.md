@@ -28,3 +28,11 @@ Use the command './server' to start the server.
 ```
 
 To send a string from the client to the server, execute the command above in your client program.
+----------------------
+
+
+**Miniralk** must conform to the [42 Norm](https://cdn.intra.42.fr/pdf/pdf/96987/en.norm.pdf).
+
+**Install** [norminette](https://github.com/42School/norminette).
+
+For more information about the project [subject](https://cdn.intra.42.fr/pdf/pdf/138325/en.subject.pdf).
