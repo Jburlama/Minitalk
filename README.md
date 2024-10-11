@@ -35,12 +35,14 @@ To send a string from the client to the server, execute the command above in you
 
 **Minitalk** must conform to the [42 Norm](https://cdn.intra.42.fr/pdf/pdf/96987/en.norm.pdf).
 
-
-
-https://github.com/user-attachments/assets/9443171c-5c4c-4a40-9cfd-2bb325bd8577
-
-
-
 **Install** [norminette](https://github.com/42School/norminette).
 
 For more information about the project [subject](https://cdn.intra.42.fr/pdf/pdf/138325/en.subject.pdf).
+
+
+
+
+https://github.com/user-attachments/assets/f7b61c6d-f14d-458a-9ce5-c3985199d91e
+
+
+
