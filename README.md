@@ -37,8 +37,6 @@ To send a string from the client to the server, execute the command above in you
 
 **Install** [norminette](https://github.com/42School/norminette).
 
-For more information about the project [subject](https://cdn.intra.42.fr/pdf/pdf/138325/en.subject.pdf).
-
 
 
 
